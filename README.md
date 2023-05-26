@@ -7,7 +7,7 @@ ESLint is a popular tool that helps maintain consistent code quality across a pr
 To use the ESLint configuration, you must first install the required dependencies:
 
 ```bash
-yarn add -D @dworac/eslint-config-typescript
+yarn add -D @dworac/eslint-config-typescript typescript
 ```
 
 Then, add the following to your `.eslintrc.js` file:
