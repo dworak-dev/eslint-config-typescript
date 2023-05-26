@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.1](https://github.com/dworac/eslint-config-typescript/compare/v1.2.0...v1.2.1) (2023-05-26)
+
+
+### Bug Fixes
+
+* added npm publishing as separate workflow ([9640482](https://github.com/dworac/eslint-config-typescript/commit/9640482372851e7f9405b1d4bf5aadbc8d859e35))
+* added typescript as peer dependency in README ([6fe5e2f](https://github.com/dworac/eslint-config-typescript/commit/6fe5e2f09e6e70d93ffcad54c84dced9043ec877))
+* removed publishing from release please workflow ([74c2a2a](https://github.com/dworac/eslint-config-typescript/commit/74c2a2af0b6eefd7e3d8b7fa568b9e3407a41405))
+* secrets renaming ([12bfbad](https://github.com/dworac/eslint-config-typescript/commit/12bfbad378e3d15739c25f5b56a3205f46903072))
+
 ## [1.2.0](https://github.com/dworac/eslint-config-typescript/compare/v1.1.0...v1.2.0) (2023-03-03)
 
 
